@@ -1,4 +1,4 @@
-//! combinatorics: Counting structures, graph theory, and enumeration in Rust
+//! combinatorics-rs: Counting structures, graph theory, and enumeration in Rust
 
 pub mod basic;
 pub mod generating;

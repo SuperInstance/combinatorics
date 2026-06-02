@@ -19,11 +19,11 @@ Combinatorics in Rust. Counting things, elegantly.
 
 ```toml
 [dependencies]
-combinatorics = "0.1.0"
+combinatorics-rs = "0.1.0"
 ```
 
 ```rust
-use combinatorics::*;
+use combinatorics_rs::*;
 
 // Basic counting
 assert_eq!(factorial(5), 120);
